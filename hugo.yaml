@@ -1,0 +1,4 @@
+baseURL: "https://aziz-atia.github.io/Portfolio/"
+languageCode: "en-us"
+title: "Hugo Profile"
+theme: hugo-profile
