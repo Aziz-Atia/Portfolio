@@ -1,9 +1,9 @@
-baseURL: "https://aziz-atia.github.io"
+baseURL: "https://aziz-atia.github.io/portfolio/"
 #baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
-
+canonifyURLs: true
 outputs:
   home:
     - "HTML"
